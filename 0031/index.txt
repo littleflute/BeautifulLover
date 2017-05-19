@@ -1,0 +1,12 @@
+Personal Author: Rao, Siddhartha.
+Title All: Sams teach yourself C++ in one hour a day / Siddhartha Rao. C++ in one hour a day
+Author: Rao, Siddhartha.
+Local Call Number: 005.133
+ISBN: 9780672335679
+Edition: 7th ed.
+Publication Information: Indianapolis, Ind. : Sams, c2012.
+Physical Description: xx, 743 p. : ill. ; 23 cm.
+Subject Term:
+C++ (Computer program language)
+OCLC: 761845595
+Holds: 0
