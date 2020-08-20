@@ -1,5 +1,5 @@
 ### [v0.0.12](https://github.com/littleflute/BeautifulLover/edit/master/README.md) [weixin](https://littleflute.github.io/weixin) 
-### [file:///C:/Users/wangyi7/gh/J2EE/Spring/script/2.html](file:///C:/Users/wangyi7/gh/J2EE/Spring/script/2.html)
+### [2.html](file:///C:/Users/wangyi7/gh/J2EE/Spring/script/2.html)
 ### [0009a](0009a)
 ### [0029](0029)
 ### [0030](0030)
